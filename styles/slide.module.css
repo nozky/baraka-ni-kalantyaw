@@ -1,0 +1,20 @@
+.slide{
+  height: 100%;
+  width: 100%;
+}
+
+.image{
+  opacity: 0.4;
+}
+
+.title{
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  z-index: 100;
+}
+
+.title h1{
+  font-size: 3rem;
+  color: var(--title-clr);
+}

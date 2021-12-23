@@ -1,9 +1,15 @@
+:root{
+  --title-clr: #d44e18;
+  --bg-clr: #ffffff;
+  --nav-bg-clr: #585252ea;
+}
+
 html,
 body {
-  padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-color: var(--bg-clr);  
 }
 
 a {
@@ -13,4 +19,14 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+.about{
+  min-height: 100vh;
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
 }
