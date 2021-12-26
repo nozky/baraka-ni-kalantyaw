@@ -51,7 +51,7 @@ In 2012, the National Commission for Culture and the Arts (NCCA) and the ICHCAP 
 
 The people attend masses for the Santo Niño, and benefit dances sponsored by government organizations. The formal opening mass emphasizes the festival's religious event. The procession begins with a rhythmic drumbeats, and dances parading along the streets. The second day begins at dawn with a rosary procession, which ends with a community mass, and procession. The phrase "Hala Bira! Pwera Pasma!" is originally associated with the Sto. Nino Ati-Atihan Festival as the revelers and devotees keep on going with the festivities all over the town from morning to the wee hours of the next morning, rain or shine, for one week or even more. They believe that the miraculous Child Jesus will protect them from harm and illness. The highlight of the festival occurs on the third Saturday of January, when groups representing different tribes compete for tourists' attention and prizes. The festival ends with a procession of thousands of people carrying torches and different kinds of images of the Santo Niño on the third Sunday. The contest winners are announced at a masquerade ball which officially ends the festival. 
 
-### Kalibi Ati-Atihan at its best!
+### Kalibo Ati-Atihan at it's best!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nn-aZIj08_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Administrative divisions
