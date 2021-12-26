@@ -4,19 +4,20 @@ import styles from '../../styles/blogs.module.css'
 
 const index = ({ posts  }) => {
   
-  const [searchStr, setSearchStr] = useState("")
+  const [SearchStr, SetSearchStr] = useState("")
+
   return (
     <div className={ styles.blogs }>
       
       <div className={ styles.search_blog }>
-        <input type="text" placeholder='Search Title' onChange={ (e)=> setSearchStr( e.target.value ) }/>
+        <input type="text" placeholder='Search Title' onChange={ (e)=> SetSearchStr( e.target.value ) }/>
       </div>
       <h1 className={ styles.title }>Blogs</h1>
 
       <div className={ styles.posts }>
         { posts.map( (post, index) =>   {
-          if( searchStr !==""){
-            const regEx = new RegExp( searchStr,'gi' )
+          if( SearchStr !==""){
+            const regEx = new RegExp( SearchStr,'gi' )
             if ( post.data.title.match( regEx ) ){
               return <PostCard key={ index } post={ post } />
             }
