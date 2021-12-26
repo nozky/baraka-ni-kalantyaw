@@ -1,0 +1,44 @@
+.post_card{
+border: 1px solid rgba(95, 126, 124, 0.301);
+padding: 1.5rem;
+border-radius: 5px;
+}
+
+.post_card:hover{
+  cursor: pointer;
+  transform: scale(1.01);
+  transition: 200ms linear;
+}
+
+.title{
+ text-decoration: underline;
+}
+
+.image_wrapper{
+  position: relative;
+  height: 320px;
+  width: 100%;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.author{
+  font-style: italic;
+}
+
+.description{
+  display: block;
+  padding-top: 1rem;
+}
+
+.link:hover{
+  cursor: pointer;
+}
+
+.link a{
+  color: blue;
+  text-decoration: underline;
+}
+
+
+

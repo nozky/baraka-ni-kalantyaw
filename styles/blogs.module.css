@@ -4,3 +4,30 @@
   padding: 2rem;
   min-height: 100vh;
 }
+
+.search_blog{
+  text-align: right;
+}
+
+.search_blog input{
+  padding: 0.5rem 1rem;
+  width: 30ch;
+  outline: none;
+  border-width: thin;
+  border-radius: 5px;
+}
+
+.search_blog input:focus{
+  border: 2px solid blue;
+}
+
+.title{
+  text-align: left;
+  margin: 1.5rem;
+}
+
+.posts{
+  display: grid;
+  grid-template-columns: repeat( auto-fit, minmax( 275px, 1fr ) );
+  gap: 1.5rem;
+}
