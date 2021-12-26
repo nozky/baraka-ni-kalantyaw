@@ -35,5 +35,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ---
 
+## Status 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8e4bab18-b5c3-4d9c-ba24-091432f317d1/deploy-status)](https://app.netlify.com/sites/baraka-ni-kalantyaw/deploys)
+
 ## live Demo
-[]()
+[https://baraka-ni-kalantyaw.netlify.app/](https://baraka-ni-kalantyaw.netlify.app/)
