@@ -28,7 +28,10 @@ const Blog = ({ data, content }) => {
       </div>
 
       <div className={styles.date}>
-        <p> Posted date: { data.date}</p>
+        <p> 
+          <span>Author: { data.author }</span> <br/>
+          Posted date: { data.date }
+        </p>
       </div>
 
       <div className={ styles.content }>
