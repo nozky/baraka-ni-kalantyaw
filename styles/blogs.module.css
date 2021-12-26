@@ -13,7 +13,9 @@
   padding: 0.5rem 1rem;
   width: 30ch;
   outline: none;
-  border-width: thin;
+  border: none;
+  border: 1px solid lightgray;
+  border-width: none;
   border-radius: 5px;
 }
 
@@ -30,4 +32,14 @@
   display: grid;
   grid-template-columns: repeat( auto-fit, minmax( 275px, 1fr ) );
   gap: 1.5rem;
+}
+
+@media ( max-width: 720px){
+  .blogs{
+    padding: 0.5rem;
+  }
+
+  .search_blog input{
+    width: 100%;
+  }
 }
