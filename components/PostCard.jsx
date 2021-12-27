@@ -14,7 +14,7 @@ const PostCard = ({ post }) => {
 
       <div className={ styles.image_wrapper }>
         <Image 
-          src={ post.data.cover_image }
+          src={ `/${post.data.cover_image}` }
           alt={ post.data.title }
           layout='fill'
         />  

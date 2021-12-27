@@ -17,7 +17,7 @@ const Blog = ({ data, content }) => {
       <div className={ styles.data_wrapper }>
         <div className={styles.image}>
           <Image
-            src={ data.cover_image }
+            src={ `/${data.cover_image }`}
             alt={ data.title }
             layout='fill'
           />
@@ -48,7 +48,7 @@ const Blog = ({ data, content }) => {
 export const getStaticPaths = async ()=> {
   const fs = require('fs')
   const files = fs.readdirSync(`${process.cwd()}/blogs`)
-  const paths = files.map( filename => ({params: { blog: filename.replace('.md','')}}))
+  const paths = files.map( filename => ( {params: { blog: filename.replace('.md','')}}) )
   
   return {
     paths,

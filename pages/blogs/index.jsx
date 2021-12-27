@@ -31,7 +31,7 @@ const Index = ({ posts  }) => {
 }
 
 
-export const getStaticProps = async ()=> {
+export const getStaticProps = async (context)=> {
 
   const fs = require('fs')
   const matter = require('gray-matter')
@@ -39,20 +39,19 @@ export const getStaticProps = async ()=> {
   //get files from post directory
   const fileslist = fs.readdirSync( `${process.cwd()}/blogs` )
   
- //get slug and front matter
+ //for every filename
  const posts = fileslist.map( filename => {
    //create slug
    const slug = filename.replace('.md','')
-   //get front matter
+   //read file
    const markDown = fs.readFileSync( `${process.cwd()}/blogs/${filename}`, 'utf-8')
    //parse markdown with gray-matter
    const frontMatter = matter( markDown )
-   const {data, content } = frontMatter
+   const { data } = frontMatter
 
    return { 
      slug,
      data,
-     content
    }
  })
 

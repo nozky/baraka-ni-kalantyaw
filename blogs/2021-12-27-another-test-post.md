@@ -1,7 +1,8 @@
 ---
 title: Another test post
 description: This is a test post
-date: 2021-12-27T13:53:50.138Z
+date: Dec 27 2021
+author: Norvillie Villaruel
 cover_image: posts/aklan.jpg
 ---
 # Hello world
@@ -18,6 +19,7 @@ Lobortis mattis aliquam faucibus purus. Nulla porttitor massa id neque aliquam v
 
 ### Test image
 ![this image](https://media.istockphoto.com/photos/el-nido-palawan-island-in-philippines-picture-id1287046912)
+
 Test Credit
 
 ## Test Title
