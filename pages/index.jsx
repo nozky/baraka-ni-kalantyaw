@@ -1,7 +1,6 @@
 import { useState, useEffect } from 'react'
 import Head from 'next/head'
 import Link from 'next/link'
-import Script from 'next/script'
 import styles from '../styles/Home.module.css'
 import { hero_images } from '../data/hero_images'
 import Slide from '../components/Slide'
@@ -9,25 +8,15 @@ import Slide from '../components/Slide'
 export default function Home() {
   const[ selectedIdx, setSelectedIdx ] = useState(0)
 
-  useEffect(()=>{
-    window.netlifyIdentity.on("init", user =>{
-      if(!user){
-        window.netlifyIdentity.on("login", ()=> {
-          document.location.href = "/admin/"
-        })
-      }
-    })
-  },[])
-
   return (
     <div className={styles.main}>
       <Head>
         <title>Baraka ni kalantyaw | Home</title>
         <meta name="description" content="Aklan's People and Culture" />
         <link rel="icon" href="/favicon.ico" />
+        <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
       </Head>
 
-      <Script src="https://identity.netlify.com/v1/netlify-identity-widget.js" />
 
       <section className={ styles.hero }>
         {hero_images.map((image,idx) => idx == selectedIdx? <Slide key={image.title} image={image} /> : null)}
