@@ -1,20 +1,20 @@
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
-  
+
 media_folder: "public/posts" # Media files will be stored in the repo under public/posts
 public_folder: "posts" # serving file from hostname/posts/static.file
 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Manage Blogs" # Used in the UI
+    label: "Blog" # Used in the UI
     folder: "blogs" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string", required: true}
       - {label: "Description", name: "description", widget: "string", required: true }
-      - {label: "Publish Date", name: "date", widget: "datetime", date_format: "DD MMMM YYYY", required: true}
+      - {label: "Publish Date", name: "date", widget: "datetime", date_format: "DD-MMMM-YYYY", required: true}
       - {label: "Author", name: "author", widget: "string", required: true}
       - {label: "Featured Image", name: "cover_image", widget: "image", required: true}
       - {label: "Body", name: "body", widget: "markdown", required: true}
