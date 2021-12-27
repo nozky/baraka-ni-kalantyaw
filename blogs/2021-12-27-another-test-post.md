@@ -1,7 +1,7 @@
 ---
 title: Another test post
 description: This is a test post
-date: 2021-12-27T14:45:14.809Z
+date: Dec 27 2021
 author: Norvillie Villaruel
 cover_image: posts/aklan.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 title: Blog title
 description: Blog description
-date: 2021-12-27T14:48:46.831Z
+date: Dec 27 2021
 author: Norvillie Villaruel
 cover_image: posts/test.jpg
 ---
