@@ -35,6 +35,7 @@ export const getStaticProps = async (context)=> {
 
   const fs = require('fs')
   const matter = require('gray-matter')
+  const moment = require('moment')
 
   //get files from post directory
   const fileslist = fs.readdirSync( `${process.cwd()}/blogs` )
@@ -49,9 +50,12 @@ export const getStaticProps = async (context)=> {
    const frontMatter = matter( markDown )
    const { data } = frontMatter
 
+   //this is my work around dealing with date serialization error 
+   const newDate = moment( data.date ).format("MMMM DD YYYY")
+
    return { 
      slug,
-     data,
+     data: { ...data, date: newDate }
    }
  })
 

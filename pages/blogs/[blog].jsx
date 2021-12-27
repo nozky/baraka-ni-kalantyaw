@@ -59,6 +59,7 @@ export const getStaticPaths = async ()=> {
 export const getStaticProps = async ({params})=> {
   const fs = require('fs')
   const matter = require('gray-matter')
+  const moment = require('moment')
 
 //next is,  read the file correspond the slug/blog and return as props for ui consumption
 //read the markdown file
@@ -67,9 +68,12 @@ const markDown = fs.readFileSync( `${process.cwd()}/blogs/${params.blog}.md`,'ut
 const frontMatter = matter( markDown)
 const { data, content } = frontMatter
 
+//this is my work around dealing with date serialization error 
+const newDate = moment( data.date ).format("MMMM DD YYYY")
+
   return{
     props: {
-      data,
+      data: { ...data, date: newDate },
       content
     }
   }
