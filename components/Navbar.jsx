@@ -13,7 +13,11 @@ const toggleMenus =()=>{
   return (
     <div className={ styles.navbar} onClick={toggleMenus}>
         <div className={styles.logo}>
-          <Image src='/logo.png' width={128} height={87} alt='logo'/>
+          <Link href="/">
+            <a alt="site logo">
+              <Image src='/logo.png' width={128} height={87} alt='logo'/>
+            </a>
+          </Link>
         </div>
         <div className={styles.humburger} onClick={ toggleMenus }>
           <div></div>

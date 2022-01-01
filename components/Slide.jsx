@@ -3,6 +3,7 @@ import Image from 'next/image'
 import styles from '../styles/slide.module.css'
 
 const Slide = ({ image }) => {
+
   return (
     <div className={ styles.slide}>
       

@@ -41,6 +41,18 @@
   color: white;
 }
 
+.circle_active{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 100%;
+  width: 20px;
+  height: 20px;
+  background-color: rgba(82, 102, 192, 0.959);
+  color: white;
+}
+
 .circle:hover{
   cursor: pointer;
 }

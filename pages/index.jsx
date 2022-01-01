@@ -20,9 +20,9 @@ export default function Home() {
       <Script src="https://identity.netlify.com/v1/netlify-identity-widget.js" />
 
       <section className={ styles.hero }>
-        {hero_images.map((image,idx) => idx == selectedIdx? <Slide key={image.title} image={image} /> : null)}
+        {hero_images.map((image,idx) => idx == selectedIdx &&  <Slide key={image.title} image={image} /> )}
         <div className={styles.circles}>
-          {hero_images.map( (image, idx) => <div key={idx} className={styles.circle} onClick={()=> setSelectedIdx(idx)}>{idx}</div> )}
+          {hero_images.map( (image, idx) => selectedIdx === idx ?  <div key={idx} className={styles.circle_active} onClick={()=> setSelectedIdx(idx)}>{idx}</div>  : <div key={idx} className={styles.circle} onClick={()=> setSelectedIdx(idx)}>{idx}</div> )}
         </div>
       </section>
 
