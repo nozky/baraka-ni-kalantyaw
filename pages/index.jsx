@@ -14,7 +14,7 @@ export default function Home() {
       <Head>
         <title>Baraka ni kalantyaw | Home</title>
         <meta name="description" content="Aklan's People and Culture" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.png" />
       </Head>
 
       <Script src="https://identity.netlify.com/v1/netlify-identity-widget.js" />
