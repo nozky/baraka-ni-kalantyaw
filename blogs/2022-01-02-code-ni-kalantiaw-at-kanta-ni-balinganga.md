@@ -14,7 +14,26 @@ Ang pag-akda ng mga banwa-banwa ay manipestado sa paghati ni Datu Sumakwel ng is
 	Sa probinsiyang ito, isa sa mga sumunod na pinuno ay si Datu Kalantiaw na nakilala dahil sa kanyang kautusan, ang Code of Kalantiaw. Subalit tulad ng Maragtas, ang awtentisidad ng nasabing akda ay tinumba rin ng tradisyong pasulat sa kasaysayan. Ngunit kung gaano kabagsik ang titig ng mga establisadong historyador sa sinasabing mga akdang pangkasaysayan, iba naman pagdating sa akdang pampanitikan. 
 Isa sa mga historyador ng Aklan, si Artemio Nabor, ang nakapagtala ng isa sa mga sinaunang tulang isinulat sa kahoy (amaga), ito ang “Kanta ni Balinganga” (Awit ni Balinganga). Si Balinganga ay isa sa mga naging anak ni Datu Bangkaya. Ang tula ay pinaniniwalaang siyang pinakamatandang dokumentong pasulat sa Akeanon bago dumating ang mga Kastila.
 
-Daeagang malangya
+        Hambae Inakeanon
+ 	Manat saeaysayon
+ 	Hanongod sa dato,
+ 	Nga si Bangkaya,
+ 	Ag anang asawa,
+ 	Imaw si Katorong,
+        Kat sanda nga daywa
+ 	Mga bataon pa.6
+        (Sa salitang Aklanon 
+        Ating isaysay
+        Hinggil sa isang dato,
+        Nga si Bangkaya,
+        At ang kanyang asawa,
+        Siya’y si Katorong,
+        Ng silang dalawa pa’y
+        Mga bata pa.)
+        Sanda hay nagkita
+        Sa sangka daeanon,
+
+        Daeagang malangya
  	Miron nga dongganon:
  	Ag sanglit gaoy eon
  	Rato nga daeaga,
