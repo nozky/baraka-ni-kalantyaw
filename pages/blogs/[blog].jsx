@@ -1,5 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
+import Head from 'next/head'
 import Link from 'next/link'
 import { marked } from 'marked'
 import styles from '../../styles/blogDetails.module.css'
@@ -9,6 +10,12 @@ const Blog = ({ data, content }) => {
 
   return (
     <div className={ styles.blog_details }>
+
+      <Head>
+        <title>Baraka ni kalantyaw | Blog details</title>
+        <meta name="description" content="Aklan's People and Culture" />
+        <link rel="icon" href="/favicon.png" />
+      </Head>
       
       <div className={ styles.title}>
         <h2>{ data.title }</h2>

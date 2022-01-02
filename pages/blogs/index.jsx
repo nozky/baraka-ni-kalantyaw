@@ -1,4 +1,5 @@
 import React,{ useState } from 'react'
+import Head from 'next/head'
 import PostCard from '../../components/PostCard'
 import styles from '../../styles/blogs.module.css'
 
@@ -8,6 +9,12 @@ const Index = ({ posts  }) => {
 
   return (
     <div className={ styles.blogs }>
+
+      <Head>
+        <title>Baraka ni kalantyaw | Blogs</title>
+        <meta name="description" content="Aklan's People and Culture" />
+        <link rel="icon" href="/favicon.png" />
+      </Head>
       
       <div className={ styles.search_blog }>
         <input type="text" placeholder='Search Title' onChange={ (e)=> setSearchStr( e.target.value ) }/>

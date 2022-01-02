@@ -56,6 +56,12 @@
   width: 100%; 
 }
 
+.content p a{
+  color: blue;
+  font-style: italic;
+  text-decoration: underline;
+}
+
 @media (max-width: 720px  ){
 
   .blog_details{
