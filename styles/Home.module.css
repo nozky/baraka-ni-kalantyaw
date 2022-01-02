@@ -88,7 +88,8 @@
 
 @media (max-width: 600px) {
   .main{
-    width: 90%;
+    width: 100%;
+    padding: 1rem;
   }
   .title h1{
     font-size: 2rem;

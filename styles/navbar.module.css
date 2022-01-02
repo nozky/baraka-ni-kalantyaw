@@ -7,7 +7,10 @@
   margin-bottom: 1rem;
   border-bottom: 1px solid #ddd;
   z-index: 200;
+}
 
+.logo{
+  width: 80px;
 }
 
 .humburger{
@@ -30,6 +33,10 @@
 
 .menus li{
   list-style: none;
+}
+
+.exit{
+  color: red;
 }
 
 .menus li a:hover{
@@ -57,8 +64,6 @@
     transform: translateX(100%);
     color: white;
   }
-
-
 
   .humburger {
     display: block;

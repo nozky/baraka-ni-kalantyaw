@@ -20,7 +20,7 @@ Lobortis mattis aliquam faucibus purus. Nulla porttitor massa id neque aliquam v
 ### Test image
 ![this image](https://media.istockphoto.com/photos/el-nido-palawan-island-in-philippines-picture-id1287046912)
 
-Test Credit
+Image credit in this line
 
 ## Test Title
 

@@ -31,6 +31,7 @@ const toggleMenus =()=>{
           <li><Link href='/products'><a>Local Products</a></Link></li>
           <li><Link href='/gallery'><a>Gallery</a></Link></li>
           <li><Link href='/about'><a>About</a></Link></li>
+          { showMenus && <li className={styles.exit}>Exit</li>}
         </ul>
     </div>
   )
