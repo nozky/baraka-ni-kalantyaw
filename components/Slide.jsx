@@ -2,10 +2,10 @@ import React from 'react'
 import Image from 'next/image'
 import styles from '../styles/slide.module.css'
 
-const Slide = ({ image }) => {
+const Slide = ({ image, active }) => {
 
   return (
-    <div className={ styles.slide}>
+    <div className={ active? styles.active_slide : styles.slide }>
       
       <div className={styles.image}>
         <Image

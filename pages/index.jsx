@@ -9,8 +9,27 @@ import Slide from '../components/Slide'
 export default function Home() {
   const[ selectedIdx, setSelectedIdx ] = useState(0)
 
+  useEffect(()=>{
+    let count = 0
+    const timer = setInterval(()=> {
+      setSelectedIdx( count )
+      if( count < hero_images.length - 1){
+        count++
+      }else{
+        count = 0 
+      }
+    },15000)
+
+    return()=>{
+      clearInterval( timer )
+    }
+
+  },[])
+
+  
+
   return (
-    <div className={styles.main}>
+      <div className={styles.main}>
       <Head>
         <title>Baraka ni kalantyaw | Home</title>
         <meta name="description" content="Aklan's People and Culture" />
@@ -20,7 +39,7 @@ export default function Home() {
       <Script src="https://identity.netlify.com/v1/netlify-identity-widget.js" />
 
       <section className={ styles.hero }>
-        {hero_images.map((image,idx) => idx == selectedIdx &&  <Slide key={image.title} image={image} /> )}
+        {hero_images.map((image,idx) => <Slide active={ idx === selectedIdx? true : false } key={idx} image={image}/> )}
         <div className={styles.circles}>
           {hero_images.map( (image, idx) => selectedIdx === idx ?  <div key={idx} className={styles.circle_active} onClick={()=> setSelectedIdx(idx)}>{idx}</div>  : <div key={idx} className={styles.circle} onClick={()=> setSelectedIdx(idx)}>{idx}</div> )}
         </div>

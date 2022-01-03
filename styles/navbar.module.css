@@ -10,7 +10,12 @@
 }
 
 .logo{
-  width: 80px;
+  width: 100px;
+}
+
+.logo p{
+  margin: 0;
+  font-size: 0.7rem;
 }
 
 .humburger{
@@ -29,10 +34,12 @@
   margin-left: auto;
   gap: 1rem;
   color: red;
+  text-shadow: 0 0 10px;
 }
 
 .menus li{
   list-style: none;
+  font-size: clamp( 0.7rem, 1.5vw, 1rem)
 }
 
 .exit{
@@ -46,7 +53,7 @@
 
 
 
-@media ( max-width: 600px) {
+@media ( max-width: 720px) {
 
   .menus{
     flex-direction: column;
@@ -54,7 +61,7 @@
     top: 0;
     right: 0;
     height: 90%;
-    padding: 2rem;
+    padding: 5rem 2rem 2rem 2rem;
     align-items: center;
     gap: 2rem;
     background-color: var(--nav-bg-clr);
@@ -63,6 +70,7 @@
     transition: 250ms ease-in;
     transform: translateX(100%);
     color: white;
+    overflow-y: scroll;
   }
 
   .humburger {

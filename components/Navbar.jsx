@@ -16,6 +16,7 @@ const toggleMenus =()=>{
           <Link href="/">
             <a alt="site logo">
               <Image src='/logo.png' width={128} height={87} alt='logo'/>
+              <p>The Best Of Aklan</p>
             </a>
           </Link>
         </div>
