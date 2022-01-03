@@ -1,0 +1,47 @@
+.contributor{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; 
+}
+
+.contributor p{
+  margin: 0;
+}
+
+.contributor:hover{
+  cursor: pointer;
+}
+
+.contributor:hover .tooltip,
+.contributor:active .tooltip,
+.contributor:focus .tooltip{
+  visibility: visible;
+}
+
+.tooltip a{
+  color: blue;
+}
+
+.tooltip{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: max-content;
+  background-color: lightgray;
+  border-radius: 5px;
+  visibility: hidden;
+  border: 1px solid lightgray;
+  padding: 1rem;
+  z-index: 100;
+}
+
+.image{
+  position: relative;
+  border: 3px solid rgb(90, 134, 192);
+  min-width: 80px;
+  min-height: 80px;
+  border-radius: 100%;
+}
+
