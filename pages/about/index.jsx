@@ -1,10 +1,9 @@
 import React,{ useEffect, useState } from 'react'
-import Image from 'next/image'
 import Contributor from '../../components/Contributor'
 import styles from '../../styles/about.module.css'
 
 
-const index = ({contributor}) => {
+const Index = ({contributor}) => {
   const [people, setPeople] = useState(null)
 
   useEffect(()=>{
@@ -41,4 +40,4 @@ export const getStaticProps =(context) => {
   }
 } 
 
-export default index
+export default Index
