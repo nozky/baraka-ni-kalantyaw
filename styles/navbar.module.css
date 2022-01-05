@@ -43,7 +43,12 @@
 }
 
 .exit{
-  color: red;
+  border-bottom: 1px solid red;
+  display: none;
+}
+
+.exit:hover{
+  cursor: pointer;
 }
 
 .menus li a:hover{
@@ -86,6 +91,10 @@
 
   .show{
     transform: translateX(0%);
+  }
+
+  .exit{
+    display: block;
   }
 
 }
