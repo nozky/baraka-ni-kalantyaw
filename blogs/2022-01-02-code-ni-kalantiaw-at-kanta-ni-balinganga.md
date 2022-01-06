@@ -15,7 +15,7 @@ Sa probinsiyang ito, isa sa mga sumunod na pinuno ay si Datu Kalantiaw na nakila
 
 Isa sa mga historyador ng Aklan, si Artemio Nabor, ang nakapagtala ng isa sa mga sinaunang tulang isinulat sa kahoy (amaga), ito ang “Kanta ni Balinganga” (Awit ni Balinganga). Si Balinganga ay isa sa mga naging anak ni Datu Bangkaya. Ang tula ay pinaniniwalaang siyang pinakamatandang dokumentong pasulat sa Akeanon bago dumating ang mga Kastila.
 
->```{
+>```
 > Hambae Inakeanon
 > Manat saeaysayon
 > Hanongod sa dato,
@@ -82,6 +82,7 @@ Isa sa mga historyador ng Aklan, si Artemio Nabor, ang nakapagtala ng isa sa mga
 > At sila’y nag-asawa.
 > Naging maligaya
 > Ang pagsasama nila.) (Salin ni Melchor F. Cichon)
+```
 
 Ang tula ay hindi masyadong umani ng pagbabatikos sa mga historyador kagaya ng Code of Kalantiaw. Sabihin mang hindi ito masyadong sumikat dahil sa ito’y isang simpleng tula/awit ng pag-ibig, ang pagiging historikal na dokumento nito ay hindi itinuturing na bagahe sa pagsulong ng kasaysayan.
 
