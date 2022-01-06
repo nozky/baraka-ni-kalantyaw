@@ -84,15 +84,15 @@ Ang pagsasama nila.) (Salin ni Melchor F. Cichon)
 
 Ang tula ay hindi masyadong umani ng pagbabatikos sa mga historyador kagaya ng Code of Kalantiaw. Sabihin mang hindi ito masyadong sumikat dahil sa ito’y isang simpleng tula/awit ng pag-ibig, ang pagiging historikal na dokumento nito ay hindi itinuturing na bagahe sa pagsulong ng kasaysayan.
 
-
 Ang malinaw lamang sa tula ay ang pagpapakilala kina Bangkaya at Katorong ng kanilang anak na si Balinganga.  Kahit na ang lugar o nayon na Tawaya ay wala sa mapa.  (Ayon sa diksyonaryo ni Zorc \[1966], ang “Tawaya” ay ang tawag sa paraiso (“paradise”/ “utopia”) ng mga sinaunang Akeanon.  Marahil nanggaling ito sa salitang ugat na “tawhay” o “tahimik.” Ang pinakamalapit na pangalan sa isa sa mga baryo ngayon sa Aklan ay ang baryo ng Tayhawan sa banwa ng Lezo.)  Ang pagkakabanggit sa salitang “opa” (balat ng palay) ay nagpapahiwatig ng uri ng pagkain at kabuhayang kanilang pinapraktis.  
 
 Matatandaan na pagdating nina Datu Sumakwel, isa sa mga ginawa nila ay ikutin ang mga isla na malapit sa Panay para maghanap ng mga butil na maaaring itanim. Nagpapahiwatig rin ito ng pagkakaroon ng teknolohiyang lusong at gawaing pagbayó, kung saan naihihiwalay ang bigas sa balat nito sa pamamagitan ng pagbayo. Subalit ang anyo ng taludturan na ginamit ay waluhan, na maituturing na dala na ng mga Kastila, dahil ang sinaunang taludturan ay pinaniniwalaang pituhan. Posible kayang isinulat na ang tulang ito sa panahon ng Kastila?
+
+
 
 Sinangguni:
 Cichon, Melchor F. “Kanta ni Balinganga.” [www.bueabodalc.blogspot.com](www.bueabodalc.blogspot.com).
 
 Monteclaro, Pedro A. *Maragta**s** kon (Historia) sg Pulo nga Panay kutub sg iya una nga Pumuluyo Tubtub sg Pag-abut sang mgha taga Borneo nga amo ang Ginhalinan sg mga Bisaya, kag sg Pagabut sg mga Katsila*. Lngsod Iloilo: El Tiempo, 1907.
-
 
 Zorc, David Paul atbp. *A Study of the Aklanon Dialect: Dictionary of Root Words and Derivations.* Tomo 2.  Washington DC: US Peace Corps, 1969.
