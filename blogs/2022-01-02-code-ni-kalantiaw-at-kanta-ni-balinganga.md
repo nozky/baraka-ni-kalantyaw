@@ -9,10 +9,13 @@ cover_image: posts/12974413_1391672547525013_428078611443968943_n.jpg
 Photo Credit: [Tribmaka](https://l.facebook.com/l.php?u=http%3A%2F%2Ftribmaka.weebly.com%2F%3Ffbclid%3DIwAR1RKbGgua4SEKK0JPaaIKYfK4BqfsmiTmGum-w1n700pGFDk71_lTTLYS4&h=AT1Jmws84gPjj5COQDZyRzWXwOZCPYt5pIJRcvwGRIZU5UdxrFHKlc0goLY8AeXoANNxUDq19h7cuw-MzN5o2q7ZqD3XLFIQK7MwJ9aVYzVIcNmg-MUn8LiFZ4ZGu7OfWZSxjIIt8Rw)
 
 Ang Maragtas ay salaysay ng pagbili ng isla ng Panay ng mga datu na tumakas mula sa Borneo dahil sa kalupitan ni Sultan Makatunaw. Ipinagpalit ng pinuno ng mga Ati na si Marikudo sa mga pangayaw ang baybayin at patag na bahagi ng buong isla sa isang gintong salakot at isang mahabang kuwintas. Nakapaloob sa Maragtas ang deskripsiyon ng pamumuhay at kultura ng mga Ati, ang naunang nanirahan sa isla ng Panay, at gayundin ng mga dumating sa isla na taga-Borneo, sa pamumuno ni Datu Puti.  Bahagi din ng Maragtas ang naratibo ng pangyayari sa buhay ng pangunahing datu at kanilang mga asawa, partikular na ang kina Sumakwel at Kapinangan/Aloyon, at Datu Bangkaya at Katurong. Sa huling bahagi rin ang lista ng mga naging pinuno ng mga banwa at ang mga Kastilang naunang dumating sa isla. 
+
 Ang pag-akda ng mga banwa-banwa ay manipestado sa paghati ni Datu Sumakwel ng isla sa tatlong bahagi: Aklan at Irong-irong, na pinapamunuan kina Datu Bangkaya at Datu Paiburong; at ang panghuli, ang Hamtik, na siyang sentro, na pinapamunuan kay Sumakwel, kasama ang iba pang datu na sina Padohinog, Lubay, Dumalogdog, at Dumangsol. Dito nabuo ang kinilalang Katilingban sang Madyaas (Konfederasyon ng Madyaas), ang sulundanon sa pagpamuno, at ang batas ng pamamalakad sa mga sinakupan.
 Sa probinsiyang ito, isa sa mga sumunod na pinuno ay si Datu Kalantiaw na nakilala dahil sa kanyang kautusan, ang Code of Kalantiaw. Subalit tulad ng Maragtas, ang awtentisidad ng nasabing akda ay tinumba rin ng tradisyong pasulat sa kasaysayan. Ngunit kung gaano kabagsik ang titig ng mga establisadong historyador sa sinasabing mga akdang pangkasaysayan, iba naman pagdating sa akdang pampanitikan. 
+
 Isa sa mga historyador ng Aklan, si Artemio Nabor, ang nakapagtala ng isa sa mga sinaunang tulang isinulat sa kahoy (amaga), ito ang “Kanta ni Balinganga” (Awit ni Balinganga). Si Balinganga ay isa sa mga naging anak ni Datu Bangkaya. Ang tula ay pinaniniwalaang siyang pinakamatandang dokumentong pasulat sa Akeanon bago dumating ang mga Kastila.
 
+> ```
 > Hambae Inakeanon
 > Manat saeaysayon
 > Hanongod sa dato,
@@ -79,6 +82,7 @@ Isa sa mga historyador ng Aklan, si Artemio Nabor, ang nakapagtala ng isa sa mga
 > At sila’y nag-asawa.
 > Naging maligaya
 > Ang pagsasama nila.) (Salin ni Melchor F. Cichon)  
+> ```
 
 Ang tula ay hindi masyadong umani ng pagbabatikos sa mga historyador kagaya ng Code of Kalantiaw. Sabihin mang hindi ito masyadong sumikat dahil sa ito’y isang simpleng tula/awit ng pag-ibig, ang pagiging historikal na dokumento nito ay hindi itinuturing na bagahe sa pagsulong ng kasaysayan.
 
@@ -89,6 +93,6 @@ Matatandaan na pagdating nina Datu Sumakwel, isa sa mga ginawa nila ay ikutin an
 Sinangguni:
 Cichon, Melchor F. “Kanta ni Balinganga.” [www.bueabodalc.blogspot.com](www.bueabodalc.blogspot.com).
 
-Monteclaro, Pedro A. *Maragta**s** kon (Historia) sg Pulo nga Panay kutub sg iya una nga Pumuluyo Tubtub sg Pag-abut sang mgha taga Borneo nga amo ang Ginhalinan sg mga Bisaya, kag sg Pagabut sg mga Katsila*. Lngsod Iloilo: El Tiempo, 1907.
+Monteclaro, Pedro A. *Maragtas kon (Historia) sg Pulo nga Panay kutub sg iya una nga Pumuluyo Tubtub sg Pag-abut sang mgha taga Borneo nga amo ang Ginhalinan sg mga Bisaya, kag sg Pagabut sg mga Katsila*. Lngsod Iloilo: El Tiempo, 1907.
 
 Zorc, David Paul atbp. *A Study of the Aklanon Dialect: Dictionary of Root Words and Derivations.* Tomo 2.  Washington DC: US Peace Corps, 1969.
