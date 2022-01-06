@@ -1,7 +1,7 @@
 ---
 title: Tungkol sa Maragtas, Code ni Kalantiaw, at Kanta ni Balinganga
 description: Ang artikulong ito ay tumatalakay sa posibilidad na basahin sa
-  ibang perspektiba ang Code ni Kalantiaw at ng tula ni Balingagnga.
+  ibang perspektiba ang Code ni Kalantiaw at ang tula ni Balingagnga.
 date: 2022-01-02T06:28:28.525Z
 author: "John Barrios "
 cover_image: posts/12974413_1391672547525013_428078611443968943_n.jpg
@@ -15,7 +15,7 @@ Sa probinsiyang ito, isa sa mga sumunod na pinuno ay si Datu Kalantiaw na nakila
 
 Isa sa mga historyador ng Aklan, si Artemio Nabor, ang nakapagtala ng isa sa mga sinaunang tulang isinulat sa kahoy (amaga), ito ang “Kanta ni Balinganga” (Awit ni Balinganga). Si Balinganga ay isa sa mga naging anak ni Datu Bangkaya. Ang tula ay pinaniniwalaang siyang pinakamatandang dokumentong pasulat sa Akeanon bago dumating ang mga Kastila.
 
-> ```
+>```{
 > Hambae Inakeanon
 > Manat saeaysayon
 > Hanongod sa dato,
@@ -82,7 +82,7 @@ Isa sa mga historyador ng Aklan, si Artemio Nabor, ang nakapagtala ng isa sa mga
 > At sila’y nag-asawa.
 > Naging maligaya
 > Ang pagsasama nila.) (Salin ni Melchor F. Cichon)  
-> ```
+```}
 
 Ang tula ay hindi masyadong umani ng pagbabatikos sa mga historyador kagaya ng Code of Kalantiaw. Sabihin mang hindi ito masyadong sumikat dahil sa ito’y isang simpleng tula/awit ng pag-ibig, ang pagiging historikal na dokumento nito ay hindi itinuturing na bagahe sa pagsulong ng kasaysayan.
 
@@ -90,7 +90,9 @@ Ang malinaw lamang sa tula ay ang pagpapakilala kina Bangkaya at Katorong ng kan
 
 Matatandaan na pagdating nina Datu Sumakwel, isa sa mga ginawa nila ay ikutin ang mga isla na malapit sa Panay para maghanap ng mga butil na maaaring itanim. Nagpapahiwatig rin ito ng pagkakaroon ng teknolohiyang lusong at gawaing pagbayó, kung saan naihihiwalay ang bigas sa balat nito sa pamamagitan ng pagbayo. Subalit ang anyo ng taludturan na ginamit ay waluhan, na maituturing na dala na ng mga Kastila, dahil ang sinaunang taludturan ay pinaniniwalaang pituhan. Posible kayang isinulat na ang tulang ito sa panahon ng Kastila?
 
+
 Sinangguni:
+
 Cichon, Melchor F. “Kanta ni Balinganga.” [www.bueabodalc.blogspot.com](www.bueabodalc.blogspot.com).
 
 Monteclaro, Pedro A. *Maragtas kon (Historia) sg Pulo nga Panay kutub sg iya una nga Pumuluyo Tubtub sg Pag-abut sang mgha taga Borneo nga amo ang Ginhalinan sg mga Bisaya, kag sg Pagabut sg mga Katsila*. Lngsod Iloilo: El Tiempo, 1907.
