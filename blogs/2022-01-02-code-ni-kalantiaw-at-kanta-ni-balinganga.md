@@ -1,6 +1,7 @@
 ---
 title: Code ni Kalantiaw at Kanta ni Balinganga
-description: Tungkol sa Maragtas, Code ni Kalantiaw, at Kanta ni Balinganga
+description: Ang artikulong ito ay tumatalakay sa posibilidad na basahin sa
+  ibang perspektiba ang Code ni Kalantiaw at ng tula ni Balingagnga.
 date: 2022-01-02T06:28:28.525Z
 author: "John Barrios "
 cover_image: posts/12974413_1391672547525013_428078611443968943_n.jpg
