@@ -46,9 +46,11 @@ export default function Home() {
       </section>
 
       <div className="others">
-        <h3>Introduction</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error qui fugit, quod beatae assumenda odit incidunt corrupti ex voluptas distinctio?</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, sint. Lorem ipsum dolor sit amet consectetur adipisicing elit. Est provident itaque ipsum porro nemo, saepe vel nihil culpa sapiente aperiam necessitatibus laboriosam iure corrupti eligendi quasi reprehenderit beatae repudiandae at!</p>
+        <h2>Welcome to Aklanon Journal</h2>
+        <p>
+          Aklanon Journal is a weekly online magazine that posts articles and other informative materials about Aklanon culture, history, art, literature and similar practices.
+          <br/>The journal is maintained by a group of Aklanon intellectuals and techies that are located in different parts of the world. It is open for contributions from individuals who want to share their knowledge to the public for free.
+        </p>
       </div>
 
       <section className={ styles.links }>

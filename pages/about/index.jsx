@@ -3,7 +3,7 @@ import Contributor from '../../components/Contributor'
 import styles from '../../styles/about.module.css'
 
 
-const Index = ({contributor}) => {
+const About = ({contributor}) => {
   const [people, setPeople] = useState(null)
 
   useEffect(()=>{
@@ -15,10 +15,16 @@ const Index = ({contributor}) => {
     <div className={ styles.about_container }>
       
       <div className={ styles.about }>
-        <h1>About Page</h1>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, dolor maiores nisi reprehenderit impedit facere consectetur cumque eligendi autem commodi. Sunt nulla sit minus dolore fugiat? Magnam odit minima alias.</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nesciunt cumque provident dolore tenetur quidem ipsum recusandae cupiditate quos dicta!</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores maxime excepturi distinctio, sint eaque repudiandae.</p>
+        <h1>Aklanon Journal</h1>
+        <p>
+          Aklanon Journal is a weekly online magazine that posts articles and other informative materials about Aklanon culture, history, art, literature and similar practices. The journal is maintained by a group of Aklanon intellectuals and techies that are located in different parts of the world. It is open for contributions from individuals who want to share their knowledge to the public for free. 
+        </p>
+        <p>
+          For those interested in sending their articles and other materials please email us at.
+        </p>
+        <p>
+          <a href="mailto:aklanon.journal@gmail.com">Email: <span className={styles.email}>aklanon.journal@gmail.com</span></a>
+        </p>
       </div>
 
       <div className={ styles.contributor_container}>
@@ -40,4 +46,4 @@ export const getStaticProps =(context) => {
   }
 } 
 
-export default Index
+export default About

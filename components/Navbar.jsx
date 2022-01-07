@@ -31,7 +31,6 @@ const toggleMenus =()=>{
           <li><Link href='/destination'><a>Destination</a></Link></li>
           <li><Link href='/products'><a>Local Products</a></Link></li>
           <li><Link href='/gallery'><a>Gallery</a></Link></li>
-          <li><Link href='https://baraka-ni-kalantyaw.netlify.app/admin/'><a>Admin</a></Link></li>
           <li><Link href='/about'><a>About</a></Link></li>
           <li className={styles.exit}>Exit</li>
         </ul>
