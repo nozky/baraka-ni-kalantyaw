@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,100&family=Raleway:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,400;1,300&display=swap');
 
 :root{
   --title-clr: #a4e40f;
@@ -6,21 +6,21 @@
   --nav-bg-clr: #585252f6;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 html,
 body {
   margin: 0;
-  font-family: 'lato', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  font-family: 'Roboto Condensed', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
   Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   background-color: var(--bg-clr); 
   width: fit-content;
   width: 100vw;
   min-height: 100vh;
-  line-height: 1.7rem;
-
-}
-
-* {
-  box-sizing: border-box;
+  line-height: 1.8rem;
+  font-size: 1.1rem;
 }
 
 a {
