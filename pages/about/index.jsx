@@ -2,14 +2,12 @@ import React,{ useEffect, useState } from 'react'
 import Contributor from '../../components/Contributor'
 import styles from '../../styles/about.module.css'
 
-
 const About = ({contributor}) => {
   const [people, setPeople] = useState(null)
 
   useEffect(()=>{
     setPeople(JSON.parse( contributor ).default)
-  },[])
-
+  },[contributor])
 
   return (
     <div className={ styles.about_container }>

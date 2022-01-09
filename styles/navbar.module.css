@@ -52,7 +52,7 @@
 }
 
 .menus li a:hover{
-  color: blue;
+  color: rgb(148, 148, 224);
   text-decoration: underline;
 }
 
