@@ -94,7 +94,7 @@ Matatandaan na pagdating nina Datu Sumakwel, isa sa mga ginawa nila ay ikutin an
 
 Sinangguni:
 
-Cichon, Melchor F. “Kanta ni Balinganga.” [www.bueabodalc.blogspot.com](www.bueabodalc.blogspot.com).
+Cichon, Melchor F. “Kanta ni Balinganga.” [www.bueabodalc.blogspot.com](http://bueabodalc.blogspot.com/).
 
 Monteclaro, Pedro A. *Maragtas kon (Historia) sg Pulo nga Panay kutub sg iya una nga Pumuluyo Tubtub sg Pag-abut sang mgha taga Borneo nga amo ang Ginhalinan sg mga Bisaya, kag sg Pagabut sg mga Katsila*. Lngsod Iloilo: El Tiempo, 1907.
 
