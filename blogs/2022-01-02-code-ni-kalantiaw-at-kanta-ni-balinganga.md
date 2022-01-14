@@ -15,73 +15,74 @@ Sa probinsiyang ito, isa sa mga sumunod na pinuno ay si Datu Kalantiaw na nakila
 
 Isa sa mga historyador ng Aklan, si Artemio Nabor, ang nakapagtala ng isa sa mga sinaunang tulang isinulat sa kahoy (amaga), ito ang “Kanta ni Balinganga” (Awit ni Balinganga). Si Balinganga ay isa sa mga naging anak ni Datu Bangkaya. Ang tula ay pinaniniwalaang siyang pinakamatandang dokumentong pasulat sa Akeanon bago dumating ang mga Kastila.
 
->```
-> Hambae Inakeanon
-> Manat saeaysayon
-> Hanongod sa dato,
-> Nga si Bangkaya,
-> Ag anang asawa,
-> Imaw si Katorong,
-> Kat sanda nga daywa
-> Mga bataon pa.
-> (Sa salitang Aklanon 
-> Ating isaysay
-> Hinggil sa isang dato,
-> Nga si Bangkaya,
-> At ang kanyang asawa,
-> Siya’y si Katorong,
-> Ng silang dalawa pa’y
-> Mga bata pa.)
->
-> Sanda hay nagkita
-> Sa sangka daeanon, 
-> Miron nga dongganon:
-> Ag sanglit gaoy eon
-> Rato nga daeaga,
-> Pomaeapit dayon
-> Datong miron kana.
-> (Sila’y nagkita
-> Sa isang daan,
-> Dalagang malangya
-> Binatang kagalang-galang:
-> At dahil pagod na
-> Yaong dalaga,
-> Agad linapitan 
-> Ang binata sa kanya.)
->
-> Singpit nat dayon
-> Nga kana omaba,
-> Agod di gaoyon,
-> Makapahoway pa.
-> Dayon na nga abhon
-> Ay mana eat opa,
-> Kono, kabog-at na
-> Kato nga daeaga.
-> (Inaya niya) \[a]gad
-> Siyang umaba,
-> Para hindi mapagod,
-> At makapagpahinga pa.
-> Agad niya inaba
-> Akala’y kasing bigat ng upa,
-> Pero, anong bigat pala
-> Yaong dalaga.)
->
-> Naghinadya dayon
-> Miron ag daeaga:
-> Nagpanaw sa nayon
-> Kon tawgon Tawaya
-> Nag-abot panag-on
-> Sanda nag-asawa,
-> Nagin malipayon
-> Pangabohi nanda. 
-> (Agad nagsaya
-> Ang binata’t dalaga:
-> Pumunta sa nayon
-> Kung tawagin ay Tawaya.
-> Dumating ang mga taon
-> At sila’y nag-asawa.
-> Naging maligaya
-> Ang pagsasama nila.) (Salin ni Melchor F. Cichon)
+```
+Hambae Inakeanon
+Manat saeaysayon
+Hanongod sa dato,
+Nga si Bangkaya,
+Ag anang asawa,
+Imaw si Katorong,
+Kat sanda nga daywa
+Mga bataon pa.
+(Sa salitang Aklanon 
+Ating isaysay
+Hinggil sa isang dato,
+Nga si Bangkaya,
+At ang kanyang asawa,
+Siya’y si Katorong,
+Ng silang dalawa pa’y
+Mga bata pa.)
+
+Sanda hay nagkita
+Sa sangka daeanon, 
+Miron nga dongganon:
+Ag sanglit gaoy eon
+Rato nga daeaga,
+Pomaeapit dayon
+Datong miron kana.
+(Sila’y nagkita
+Sa isang daan,
+Dalagang malangya
+Binatang kagalang-galang:
+At dahil pagod na
+Yaong dalaga,
+Agad linapitan 
+Ang binata sa kanya.)
+
+Singpit nat dayon
+Nga kana omaba,
+Agod di gaoyon,
+Makapahoway pa.
+Dayon na nga abhon
+Ay mana eat opa,
+Kono, kabog-at na
+Kato nga daeaga.
+(Inaya niya) \[a]gad
+Siyang umaba,
+Para hindi mapagod,
+At makapagpahinga pa.
+Agad niya inaba
+Akala’y kasing bigat ng upa,
+Pero, anong bigat pala
+Yaong dalaga.)
+
+Naghinadya dayon
+Miron ag daeaga:
+Nagpanaw sa nayon
+Kon tawgon Tawaya
+Nag-abot panag-on
+Sanda nag-asawa,
+Nagin malipayon
+Pangabohi nanda. 
+(Agad nagsaya
+Ang binata’t dalaga:
+Pumunta sa nayon
+Kung tawagin ay Tawaya.
+Dumating ang mga taon
+At sila’y nag-asawa.
+Naging maligaya
+Ang pagsasama nila.) 
+(Salin ni Melchor F. Cichon)
 ```
 
 Ang tula ay hindi masyadong umani ng pagbabatikos sa mga historyador kagaya ng Code of Kalantiaw. Sabihin mang hindi ito masyadong sumikat dahil sa ito’y isang simpleng tula/awit ng pag-ibig, ang pagiging historikal na dokumento nito ay hindi itinuturing na bagahe sa pagsulong ng kasaysayan.
